@@ -1,0 +1,21 @@
+# Product Card Homework Project
+
+This is a React application that displays a list of products using reusable components.
+
+## Features
+- Display product cards with image, title, price, category, rating, and brand
+- Stock status indicator (Sold Out, Low Stock, In Stock)
+- Search functionality to filter products
+- Click on a product to view detailed information
+- Responsive grid layout
+
+## Technologies Used
+- React
+- JavaScript
+- CSS
+
+## Structure
+- App.js: Root component
+- Home.jsx: Handles product display and search
+- ProductCard.jsx: Reusable product card component
+- styles.css: Styling for layout and design
